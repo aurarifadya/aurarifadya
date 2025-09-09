@@ -2,8 +2,7 @@
 <!-- Calm Cute Style Profile README for aurarifadya -->
 
 <p align="center">
-  <img src="download (1).jpg
-" alt="Profile Photo" width="180" style="border-radius:50%; box-shadow: 0 0 15px #f3cce3;"/>
+  <img src="hhh.jpg" alt="Profile Photo" width="180" style="border-radius:50%; box-shadow: 0 0 15px #f3cce3;"/>
 </p>
 
 <h1 align="center">🌷 Hi, I'm <b>Adyaa</b> 🌷</h1>
